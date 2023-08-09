@@ -1,0 +1,15 @@
+				FASTECH
+Pokhara -25  PHONE NO: 061-400009
+
+Customer Name: 1
+Date & Time: 2023-05-05 07:50:50.427835
+------------------------------------------
+Laptop Name: Razer Blade
+Brand:  Razer
+Net amount: 2000
+Total quantity: 1
+------------------------------------------
+
+ Total amount: 2010
+ Shipping cost: 10  
+ Total cost: 2010
